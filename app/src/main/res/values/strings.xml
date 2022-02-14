@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NoteApp_Java</string>
+    <string name="todo">todo</string>
+    <string name="notes">Notes</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="search_notes">Search Notes…</string>
+    <string name="pin_unpin">Pin/Unpin</string>
+    <string name="delete">Delete</string>
+    <string name="list_grid">List/Grid</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="delete_all_notes">Delete All Notes</string>
+    <string name="empty">Empty…</string>
+</resources>
